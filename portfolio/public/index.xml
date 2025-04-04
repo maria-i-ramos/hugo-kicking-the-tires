@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Brian&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Apr 2025 16:00:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 03 Apr 2025 16:00:21 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Brian&#xA;Address&#xA;Email&#xA;Number&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 03 Apr 2025 15:56:19 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Date&#xA;Job Title&#xA;Company&#xA;Brief Description&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 20 Feb 2025 14:10:23 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page! I am Brian.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
